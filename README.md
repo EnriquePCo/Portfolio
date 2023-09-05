@@ -4,7 +4,7 @@ This portfolio showcases a selection of projects I have undertaken during my ten
 - **Email**: [prados3000@gmail.com](prados3000@gmail.com)
 - **LinkedIn**: [linkedin.com/enriquepc-y2000](www.linkedin.com/in/enriquepc-y2000)
 
-## Certifications
+## [Certifications] (https://github.com/EnriquePCo/Portfolio/tree/main/CERTIFICATIONS)
 - Udemy | Curso completo de Python 3 de la A a la Z - 2022 +50 hrs
 - Udemy | Curso completo de Estadística descriptiva - RStudio y Python
 - Google - Coursera | Aspectos básicos: Datos, datos, en todas partes
