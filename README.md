@@ -8,3 +8,5 @@ This portfolio showcases a selection of projects I have undertaken during my ten
 - Udemy | Curso completo de Python 3 de la A a la Z - 2022 +50 hrs
 - Udemy | Curso completo de Estadística descriptiva - RStudio y Python
 - Google - Coursera | Aspectos básicos: Datos, datos, en todas partes
+
+## Projects
