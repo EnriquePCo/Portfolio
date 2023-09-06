@@ -11,4 +11,5 @@ This portfolio showcases a selection of projects I have undertaken during my ten
 
 ## Projects
 ## Micro-projects
-**[Descriptive Statistics - Nelder Experiment](https://github.com/EnriquePCo/DescriptiveStatistics-Nelder_Experiment)**
+- **[Descriptive Statistics - Nelder Experiment](https://github.com/EnriquePCo/DescriptiveStatistics-Nelder_Experiment)**
+- **[Python A-Z certificate challenges](https://github.com/EnriquePCo/Python-A_Z-Challenges/blob/main/Challenges_A_Z_PYTHON.ipynb)**
