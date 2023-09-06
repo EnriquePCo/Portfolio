@@ -11,4 +11,4 @@ This portfolio showcases a selection of projects I have undertaken during my ten
 
 ## Projects
 ## Micro-projects
-** [Descriptive Statistics - Nelder Experiment]() **
+** [Descriptive Statistics - Nelder Experiment](https://github.com/EnriquePCo/DescriptiveStatistics-Nelder_Experiment) **
