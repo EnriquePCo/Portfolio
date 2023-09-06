@@ -10,3 +10,5 @@ This portfolio showcases a selection of projects I have undertaken during my ten
 - Google - Coursera | Aspectos básicos: Datos, datos, en todas partes
 
 ## Projects
+## Micro-projects
+** [Descriptive Statistics - Nelder Experiment]() **
